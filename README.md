@@ -11,7 +11,7 @@ This project involves concrete strength prediction using various machine learnin
 - Artificial Neural Network(ANN)
 --------------------
 
-**Aim**
+## **Aim**
 The aim of this project is to determine the best machine learning
 algorithm that can predict the maximum compressive strength of concrete
 with very minimal error
